@@ -1,0 +1,19 @@
+{
+    "aulas": [
+      {"nombre": "A1", "disponibilidad": ["09:00-10:00", "10:00-11:00", "11:00-12:00"]},
+      {"nombre": "A2", "disponibilidad": ["09:00-10:00", "10:00-11:00", "11:00-12:00"]},
+      {"nombre": "A3", "disponibilidad": ["10:00-11:00", "11:00-12:00"]}
+    ],
+    "profesores": [
+      {"nombre": "P1", "disponibilidad": ["09:00-10:00", "10:00-11:00", "11:00-12:00"], "clases": ["C1", "C2"]},
+      {"nombre": "P2", "disponibilidad": ["09:00-10:00", "10:00-11:00", "11:00-12:00"], "clases": ["C3"]},
+      {"nombre": "P3", "disponibilidad": ["09:00-10:00", "10:00-11:00", "11:00-12:00"], "clases": ["C4"]}
+    ],
+    "clases": [
+      {"nombre": "C1", "duracion": "1 hora", "profesor": "P1"},
+      {"nombre": "C2", "duracion": "1 hora", "profesor": "P1"},
+      {"nombre": "C3", "duracion": "1 hora", "profesor": "P2"},
+      {"nombre": "C4", "duracion": "1 hora", "profesor": "P3"}
+    ]
+  }
+  
