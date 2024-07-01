@@ -1,0 +1,9 @@
+Para poder instalar el proyecto en su ordenador, por favor siga las siguientes instrucciones:
+
+1.- Crear una carpeta donde desea tener el proyecto.
+2.- Abrir su consola (CMD) y eejecutar el comando "cd …", los puntos suspensivos corresponden al directorio de su carpeta
+3.- Ejecutar el comando "git init"
+4.- Ejecutar el comando "git remote add origin https://github.com/Gera3132/ABC_CALENDARIZACION.git"
+5.- Ejecutar el comando "git pull origin master"
+
+Fuente: https://www.youtube.com/watch?v=oI4uHhZERM4&t=2s
