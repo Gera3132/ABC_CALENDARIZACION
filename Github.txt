@@ -5,5 +5,10 @@ Para poder instalar el proyecto en su ordenador, por favor siga las siguientes i
 3.- Ejecutar el comando "git init"
 4.- Ejecutar el comando "git remote add origin https://github.com/Gera3132/ABC_CALENDARIZACION.git"
 5.- Ejecutar el comando "git pull origin master"
+6.- Correr "horarios.py"
 
 Fuente: https://www.youtube.com/watch?v=oI4uHhZERM4&t=2s
+
+Cabe mencionar que si se desea hacer alguna prueba mas detallada en cuanto a profesores, materias y horarios, es mas recomendable utilizar "ABC_Calendarization.py" ya que ahí podemos dar datos mas específicos.
+
+El resto de parámetros para ambas versiones como días de la semana, cantidad de abejas, días y demás se modifican directamente en el código.
