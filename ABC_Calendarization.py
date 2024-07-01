@@ -1,7 +1,9 @@
 #Serrano Fernandez Gerardo Adonai
-#Sireno Ojeda
+#Rios Rivera Fernanda Anahi
+#Sireno Ojeda Cesar Abraham
+#Martinez Serrano Alexis Geovanni
 #Algoritmos bioinspirados
-#Profesora Miriam Pescador
+#Profesora Miriam Pescador Rojas
 #Grupo 5BM2
 import random
 #Esta funcion simplemente nos ayuda a diferenciar cada dia que asigna el algoritmo tomando 1 como Lunes, 2 como Martes
